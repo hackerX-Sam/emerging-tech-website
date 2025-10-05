@@ -15,7 +15,7 @@ const Team = () => {
       gradient: 'from-cyan-500 to-blue-600',
     },
     {
-      name: 'Sarah Chen',
+      name: 'SAMIRAN',
       designation: 'Technical Lead',
       image: 'https://ik.imagekit.io/logicsync/stage%20.jpg?updatedAt=1759674099852',
       gradient: 'from-violet-500 to-purple-600',
