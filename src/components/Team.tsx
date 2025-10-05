@@ -17,7 +17,7 @@ const Team = () => {
     {
       name: 'Sarah Chen',
       designation: 'Technical Lead',
-      image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://ik.imagekit.io/logicsync/stage%20.jpg?updatedAt=1759674099852',
       gradient: 'from-violet-500 to-purple-600',
     },
     {
