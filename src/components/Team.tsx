@@ -93,7 +93,7 @@ const Team = () => {
                     <img
                       src={member.image}
                       alt={member.name}
-                      className="relative w-32 h-32 rounded-full mx-auto object-cover border-4 border-gray-700/50 group-hover:border-cyan-500/50 transition-all duration-300"
+                      className="relative w-48 h-48 rounded-full mx-auto object-cover border-4 border-gray-700/50 group-hover:border-cyan-500/50 transition-all duration-300"
                     />
                   </div>
 
