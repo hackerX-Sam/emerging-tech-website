@@ -5,6 +5,7 @@ import Domains from './components/Domains';
 import Projects from './components/Projects';
 import Achievements from './components/Achievements';
 import Events from './components/Events';
+import Team from './components/Team';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -22,6 +23,7 @@ function App() {
         <Projects />
         <Achievements />
         <Events />
+        <Team />
         <Gallery />
         <Contact />
       </main>
