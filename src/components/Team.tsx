@@ -121,7 +121,7 @@ const Team = () => {
                       <Github size={18} />
                     </motion.a>
                     <motion.a
-                      href="#"
+                      href="https://github.com/hackerX-Sam"
                       whileHover={{ scale: 1.1, y: -2 }}
                       className="w-9 h-9 bg-gray-800/50 rounded-lg flex items-center justify-center text-gray-400 hover:text-cyan-400 hover:bg-cyan-500/10 transition-all hover:shadow-lg hover:shadow-cyan-500/20"
                     >
