@@ -46,7 +46,7 @@ const Hero = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.6, duration: 0.8 }}
-            className="text-xl sm:text-2xl text-gray-400 max-w-3xl mx-auto"
+            className="text-xl sm:text-2xl text-gray-400 max-w-3xl mx-auto cursive-text"
           >
             Where technology meets tomorrow
           </motion.p>

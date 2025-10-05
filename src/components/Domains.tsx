@@ -75,7 +75,7 @@ const Domains = () => {
             Technology Domains
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-cyan-500 to-violet-600 mx-auto mb-6"></div>
-          <p className="text-gray-400 text-lg max-w-3xl mx-auto">
+          <p className="text-gray-400 text-lg max-w-3xl mx-auto cursive-text">
             Explore our specialized domains where innovation meets expertise
           </p>
         </motion.div>
