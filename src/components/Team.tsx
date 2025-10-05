@@ -61,7 +61,7 @@ const Team = () => {
           className="text-center mb-12"
         >
           <h2 className="text-4xl sm:text-5xl font-bold text-white mb-4">
-            Meet Our Team
+            Meet the Leads
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-cyan-500 to-violet-600 mx-auto mb-6"></div>
           <p className="text-gray-400 text-lg max-w-3xl mx-auto cursive-text">
