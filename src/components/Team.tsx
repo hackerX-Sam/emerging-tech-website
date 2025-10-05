@@ -9,21 +9,21 @@ const Team = () => {
 
   const teamMembers = [
     {
-      name: 'Alex Johnson',
-      designation: 'Department Lead',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400',
+      name: 'SAKSHAM',
+      designation: 'AIML',
+      image: 'https://ik.imagekit.io/logicsync/saksham%20.jpg?updatedAt=1759676584884',
       gradient: 'from-cyan-500 to-blue-600',
     },
     {
       name: 'SAMIRAN',
-      designation: 'Technical Lead',
+      designation: 'CyberSecurity and WEB3',
       image: 'https://ik.imagekit.io/logicsync/stage%20.jpg?updatedAt=1759674099852',
       gradient: 'from-violet-500 to-purple-600',
     },
     {
-      name: 'Michael Rodriguez',
-      designation: 'Operations Lead',
-      image: 'https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=400',
+      name: 'AAKASH',
+      designation: 'Blockchain and WEB3',
+      image: 'https://ik.imagekit.io/logicsync/WhatsApp%20Image%202025-09-20%20at%2015.26.20_b9ee85af.jpg?updatedAt=1759674101906',
       gradient: 'from-pink-500 to-red-600',
     },
   ];
