@@ -107,21 +107,25 @@ const Team = () => {
 
                   <div className="flex justify-center space-x-3 pt-4 border-t border-gray-700/50">
                     <motion.a
-                      href="#"
+                      href={member.name === 'SAMIRAN' ? 'https://www.linkedin.com/in/samiran-das-33531123b/' : '#'}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       whileHover={{ scale: 1.1, y: -2 }}
                       className="w-9 h-9 bg-gray-800/50 rounded-lg flex items-center justify-center text-gray-400 hover:text-cyan-400 hover:bg-cyan-500/10 transition-all hover:shadow-lg hover:shadow-cyan-500/20"
                     >
                       <Linkedin size={18} />
                     </motion.a>
                     <motion.a
-                      href="https://github.com/hackerX-Sam"
+                      href={member.name === 'SAMIRAN' ? 'https://github.com/hackerX-Sam' : '#'}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       whileHover={{ scale: 1.1, y: -2 }}
                       className="w-9 h-9 bg-gray-800/50 rounded-lg flex items-center justify-center text-gray-400 hover:text-cyan-400 hover:bg-cyan-500/10 transition-all hover:shadow-lg hover:shadow-cyan-500/20"
                     >
                       <Github size={18} />
                     </motion.a>
                     <motion.a
-                      href="#"
+                      href={member.name === 'SAMIRAN' ? 'mailto:samirantsk2020@gmail.com' : '#'}
                       whileHover={{ scale: 1.1, y: -2 }}
                       className="w-9 h-9 bg-gray-800/50 rounded-lg flex items-center justify-center text-gray-400 hover:text-cyan-400 hover:bg-cyan-500/10 transition-all hover:shadow-lg hover:shadow-cyan-500/20"
                     >
