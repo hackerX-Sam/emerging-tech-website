@@ -71,7 +71,7 @@ const Hero = () => {
             </motion.button>
 
             <motion.button
-              onClick={() => scrollToSection('#contact')}
+              onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSc24UCEUKYoEs8c-jVh_V3mCbOa5RoP2TIBkWoCoE5TPhyQmg/viewform?usp=header', '_blank')}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="px-8 py-4 bg-transparent border-2 border-cyan-500/50 hover:border-cyan-500 rounded-lg font-semibold text-cyan-400 hover:bg-cyan-500/10 transition-all"
