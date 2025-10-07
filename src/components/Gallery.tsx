@@ -28,9 +28,9 @@ const Gallery = () => {
       category: 'SIH internals 2025',
     },
     {
-      url: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=800',
-      caption: 'Code Rangers Community Meetup',
-      category: 'Events',
+      url: 'https://ik.imagekit.io/logicsync/2nd%20pos%20.jpg?updatedAt=1759847570379',
+      caption: '2nd position',
+      category: 'SIH internals 2025',
     },
     {
       url: 'https://ik.imagekit.io/logicsync/WhatsApp%20Image%202025-10-07%20at%2016.40.47_3c50c729.jpg?updatedAt=1759835587304',
