@@ -82,16 +82,6 @@ const Gallery = () => {
       caption: 'Code Rangers Sponsorship session at IILM',
       category: 'Sponsorship session',
     },
-    {
-      url: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
-      caption: 'Team Building Activities',
-      category: 'Team',
-    },
-    {
-      url: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
-      caption: 'Team Building Activities',
-      category: 'Team',
-    },
   ];
 
   const containerVariants = {
