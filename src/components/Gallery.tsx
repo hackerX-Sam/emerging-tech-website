@@ -79,8 +79,8 @@ const Gallery = () => {
     },
     {
       url: 'https://ik.imagekit.io/logicsync/hosted.jpg?updatedAt=1759836200294',
-      caption: 'Code Rangers Sponsorship session at IILM',
-      category: 'Sponsorship session',
+      caption: 'Hack O Clock IILM',
+      category: 'Hackathon Sponsorship session',
     },
   ];
 
