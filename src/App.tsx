@@ -1,5 +1,6 @@
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import AboutCodeRangers from './components/AboutCodeRangers';
 import About from './components/About';
 import Domains from './components/Domains';
 import Projects from './components/Projects';
@@ -18,6 +19,7 @@ function App() {
       <Navbar />
       <main className="relative z-10">
         <Hero />
+        <AboutCodeRangers />
         <About />
         <Domains />
         <Projects />
