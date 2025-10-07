@@ -43,14 +43,44 @@ const Gallery = () => {
       category: 'Hackathon',
     },
     {
-      url: 'https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=800',
-      caption: 'Cybersecurity CTF Competition',
-      category: 'Events',
+      url: 'https://ik.imagekit.io/logicsync/nakshatra.jpg?updatedAt=1759836200474',
+      caption: 'Code Nakshatra Organising Team',
+      category: 'Hackathon',
     },
     {
-      url: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
-      caption: 'Team Building Activities',
-      category: 'Team',
+      url: 'https://ik.imagekit.io/logicsync/code%20nakshatra.jpg?updatedAt=1759836200406',
+      caption: 'Team',
+      category: 'Hackathon',
+    },
+    {
+      url: 'https://ik.imagekit.io/logicsync/the%20trio%202.jpg?updatedAt=1759836200462',
+      caption: 'The TRIO',
+      category: 'Leads-Code Nakshatra',
+    },
+    {
+      url: 'https://ik.imagekit.io/logicsync/hackloop.jpg?updatedAt=1759836199752',
+      caption: 'Hackloop sponsored by Code Rangers',
+      category: 'Event Sponsors',
+    },
+    {
+      url: 'https://ik.imagekit.io/logicsync/spnsr.jpg?updatedAt=1759836200123',
+      caption: 'TechInertia Sponsored by Code Rangers',
+      category: 'Event Sponsors ',
+    },
+    {
+      url: 'https://ik.imagekit.io/logicsync/spndor.jpg?updatedAt=1759836199687',
+      caption: 'HackCentrix Sponsored by Code Rangers',
+      category: 'Event Sponsors',
+    },
+    {
+      url: 'https://ik.imagekit.io/logicsync/banner.jpg?updatedAt=1759836200452',
+      caption: 'Code Nakshatra Banner Prep',
+      category: 'Hackathon preparation',
+    },
+    {
+      url: 'https://ik.imagekit.io/logicsync/hosted.jpg?updatedAt=1759836200294',
+      caption: 'Code Rangers Sponsorship session at IILM',
+      category: 'Sponsorship session',
     },
     {
       url: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
