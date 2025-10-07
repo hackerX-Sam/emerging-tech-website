@@ -187,16 +187,16 @@ const Contact = () => {
               <div className="space-y-4 text-gray-300">
                 <p>
                   <span className="text-cyan-400 font-semibold">Email:</span><br />
-                  coderangers.emerging@tech.edu
+                  coderangerss@gmail.com
                 </p>
                 <p>
                   <span className="text-cyan-400 font-semibold">Location:</span><br />
-                  Tech Building, Room 304<br />
-                  Innovation Campus
+                  E-cell, Room 304<br />
+                  TIIPS Greater Noida Campus
                 </p>
                 <p>
                   <span className="text-cyan-400 font-semibold">Office Hours:</span><br />
-                  Mon - Fri: 2:00 PM - 6:00 PM
+                  Mon - Fri: 9:30AM - 4:00 PM
                 </p>
               </div>
             </div>
