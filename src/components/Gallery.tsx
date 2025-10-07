@@ -8,8 +8,8 @@ const Gallery = () => {
 
   const images = [
     {
-      url: 'https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=800',
-      caption: 'Hackathon 2024 - Team Collaboration',
+      url: 'https://ik.imagekit.io/logicsync/sih222.jpg?updatedAt=1759836292864',
+      caption: 'SIH(smart india hackathon) 2025 internals - Team collaboration',
       category: 'Events',
     },
     {
